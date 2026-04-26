@@ -30,7 +30,7 @@ github_username:  Gcoxe
 # Build settings
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
-theme: jekyll-theme-dinky
+theme: "jekyll-theme-dinky"
 plugins:
   - jekyll-remote-theme
 #- jekyll-feed

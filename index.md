@@ -17,7 +17,7 @@ We got our data from a survey in Izzy Hink's two sections of COMP 110. COMP 110 
 ## Graph 1, Histogram 1
 Our first graph is a histogram which counts students' rating for the tutoring_effective measure. Both total students and students with no expreince are plotted. 
 
-#graph
+<img src="personal-site.github.io/static/imgs/First Histogram.png" alt="Image of Comp110 rainbow logo. "  width="500">
 
 
 
@@ -27,14 +27,14 @@ This graph shows us that out of everyone in the class who went to tutoring, most
 The second graph is a histogram with the same metrics as the first but instead of a count, there is a percentage.
 
 
-#graph 
+<img src="personal-site.github.io/static/imgs/Second Histogram.png" alt="Image of Comp110 rainbow logo. "  width="500">
 
 This graph allows us to determine if a higher percentage of no experience students belive that tutoring is effective compared to the total students. The graph shows that a higher percentage of no expereince students think that tutoring is effective compared to the total, further revealing the importance of tutoring. 
 
 ## Graph 3, Heatmap 
 The the third graph is a heatmap comparing the Understanding and tutoring metric. 
 
-#graph 
+<img src="personal-site.github.io/static/imgs/Heatmap COMP 110.png" alt="Image of Comp110 rainbow logo. "  width="500">
 
 
 This graph does not seem to reveal any trend between the two metrics. This is likely due to the survey being a self assessment rather than a definite statistic. 
@@ -50,7 +50,7 @@ If we have more tutoring sessions available, then more students can participate 
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="personal-site.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## This is a small header
 
